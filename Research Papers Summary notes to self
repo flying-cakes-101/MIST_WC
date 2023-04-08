@@ -1,0 +1,31 @@
+This is not the actual collated, professional sounding summary that I'll be submitting by 16th April. It does however have all the content that I'll be using in that
+report. I might add some more info too in case I read other papers. I was looking into a research paper on the deployement of DevSecOps in AWS, but I'll add that when I 
+get to that.
+Honestly, I know I took up DevOps and DevSecOps cuz they're like these cool buzzwords that some websites were talking about. I did some reading on the topic and I'm gonna
+break it down in a way that even someone's grandma can understand.
+So, first things first. DevOps is a methodology that's all about bringing developers and operations teams closer together. It's all about fostering a culture of 
+collaboration and communication, and using automation tools to make the software development process smoother and more efficient. Sounds pretty awesome and effecient to 
+me.
+I read this research paper by Sumanth Kolar and Sandhya Shetty called "DevOps: A Software Development Methodology" that really got into the nitty-gritty of what DevOps is
+all about. The authors explained that DevOps is made up of three main components: culture, automation, and measurement.
+Culture refers to the mindset and practices that promote collaboration and communication between developers and operations teams. Basically, it's about breaking down 
+silos and getting people to work together more effectively.
+Automation is all about using tools and processes to automate various tasks in the software development lifecycle. This can include things like continuous integration and
+deployment, which basically means automating the process of building and testing software so that it's always ready to be deployed.
+Measurement is all about using metrics to track the performance and quality of the software. This can help teams identify areas that need improvement and make data-driven
+decisions about how to optimize the development process.
+Now, DevSecOps takes things a step further by adding security into the mix. I read this other research paper by Matthew Rose called "DevSecOps: A Security-Centered 
+Approach to Software Development" that explained how DevSecOps is all about integrating security into every stage of the software development lifecycle.
+This means involving security teams in the development process and using tools and processes that prioritize security. This can include things like automated security 
+testing, threat modeling, and other security-focused tools.
+The goal of DevSecOps is to create software that's not only efficient and high-quality but also more secure. After all, we don't want our software getting hacked by some
+random person on the internet, right?
+Now, as sexy as DevOps and DevSecOps sound, there are definitely some challenges involved in implementing these methodologies. For example, some teams may be resistant to
+change or may not have the right tools and infrastructure in place to make DevOps or DevSecOps work.
+But, there are also a ton of benefits to be gained from implementing these methodologies. I read this research paper by Jennifer Perez and Abdulaziz Alnasser called 
+"DevOps and DevSecOps: Benefits and Challenges" that really laid out the advantages of these methodologies.
+According to the authors, some of the benefits of DevOps and DevSecOps include faster development times, improved collaboration between teams, and higher-quality software.
+DevSecOps also adds the benefit of enhanced security and risk management.
+So, there you have it. DevOps and DevSecOps are all about making software development more efficient, more collaborative, and more secure. It's definitely worth checking
+out and it seemed great to study up on. And even if I don't go into cybersecurity well, at least now I can sound smart when you drop these heavy ass words in casual 
+conversation, as I've already done with a couple girls.
